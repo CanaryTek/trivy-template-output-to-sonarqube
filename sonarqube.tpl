@@ -29,7 +29,7 @@
       "type": "VULNERABILITY",
       "primaryLocation": {
         "message": "{{ .PkgName }} - {{ .VulnerabilityID }} - {{ .Title | replace "\"" "'" }}",
-        "filePath": "assets/production/Dockerfile"
+        "filePath": "project/PROJECT.ev"
       }
     }
 
